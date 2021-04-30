@@ -1,6 +1,6 @@
 # Robust topology optimization for structures under bounded random loads and material uncertainties
 
-This repo contains the codes for the present research by Song Bai and Zhan Kang from Dept. of Engineering Mechanics, Dalian University of Technology.
+This repo contains part of the codes for the present research. For the full version of the codes, please contact the corresponding author. (The MATLAB version of the Method of Moving Asymptotes (MMA) optimizer code ought to be obtained by contacting Prof. Krister Svanberg.)
 
 ## Topology evolution animations of numerical examples
 
