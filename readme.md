@@ -4,6 +4,8 @@ Thank you for your interest in this project!
 
 This repo contains part of the codes for the current research by Song Bai and Zhan Kang from Dept. of Engineering Mechanics, Dalian University of Technology, Dalian, China.
 
+<https://doi.org/10.1016/j.compstruc.2021.106569>
+
 Please read the notes below for additional pre-requisites for the implementation of the codes.
 
 NOTE:
